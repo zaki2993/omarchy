@@ -1,0 +1,7 @@
+2025/11/05-12:33:01.231 c50 Reusing MANIFEST /home/zaki/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/05-12:33:01.231 c50 Recovering log #4
+2025/11/05-12:33:01.232 c50 Reusing old log /home/zaki/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000004.log 
+2025/11/05-12:33:02.978 c50 Level-0 table #8: started
+2025/11/05-12:33:02.984 c50 Level-0 table #8: 10102 bytes OK
+2025/11/05-12:33:02.988 c50 Delete type=0 #4
+2025/11/05-12:33:02.989 c50 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

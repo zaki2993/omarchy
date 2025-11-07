@@ -1,0 +1,6 @@
+2025/11/04-23:20:56.169 2ab0 Creating DB /home/zaki/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb since it was missing.
+2025/11/04-23:20:56.174 2ab0 Reusing MANIFEST /home/zaki/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/11/04-23:32:34.099 2aa5 Level-0 table #5: started
+2025/11/04-23:32:34.102 2aa5 Level-0 table #5: 9933 bytes OK
+2025/11/04-23:32:34.105 2aa5 Delete type=0 #3
+2025/11/04-23:32:34.105 2aa5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,20 @@
+2025/11/06-12:23:38.191 d1f Reusing MANIFEST /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-12:23:38.192 d1f Recovering log #6
+2025/11/06-12:23:38.192 d1f Reusing old log /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000006.log 
+2025/11/06-12:23:39.130 d2e Level-0 table #10: started
+2025/11/06-12:23:39.132 d2e Level-0 table #10: 541 bytes OK
+2025/11/06-12:23:39.135 d2e Delete type=0 #6
+2025/11/06-12:23:39.135 d21 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 27880 : 1
+2025/11/06-12:23:39.135 d21 Compacting 1@0 + 1@1 files
+2025/11/06-12:23:39.159 d21 Generated table #11@0: 11167 keys, 149121 bytes
+2025/11/06-12:23:39.159 d21 Compacted 1@0 + 1@1 files => 149121 bytes
+2025/11/06-12:23:39.162 d21 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/06-12:23:39.163 d21 Delete type=2 #10
+2025/11/06-12:23:39.163 d21 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 27880 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/06-13:08:02.857 d1f Compacting 1@1 + 1@2 files
+2025/11/06-13:08:02.879 d1f Generated table #12@1: 1986 keys, 71727 bytes
+2025/11/06-13:08:02.880 d1f Compacted 1@1 + 1@2 files => 71727 bytes
+2025/11/06-13:08:02.882 d1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-13:08:02.883 d1f Delete type=2 #5
+2025/11/06-13:08:02.883 d1f Delete type=2 #7
+2025/11/06-13:08:02.883 d1f Delete type=2 #11

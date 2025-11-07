@@ -1,0 +1,9 @@
+2025/11/05-11:38:31.108 5 Reusing MANIFEST /home/zaki/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/05-11:38:31.121 5 Recovering log #92
+2025/11/05-11:38:31.122 5 Reusing old log /home/zaki/.config/chromium/Default/Local Storage/leveldb/000092.log 
+2025/11/05-11:39:31.130 7 Level-0 table #96: started
+2025/11/05-11:39:31.146 7 Level-0 table #96: 48713 bytes OK
+2025/11/05-11:39:31.151 7 Delete type=0 #92
+2025/11/05-11:40:59.192 7 Level-0 table #98: started
+2025/11/05-11:40:59.235 7 Level-0 table #98: 42858 bytes OK
+2025/11/05-11:40:59.240 7 Delete type=0 #95

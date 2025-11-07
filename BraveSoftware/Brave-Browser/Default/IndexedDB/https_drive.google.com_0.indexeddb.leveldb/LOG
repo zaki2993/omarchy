@@ -1,0 +1,6 @@
+2025/11/06-11:51:04.031 d21 Reusing MANIFEST /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-11:51:04.032 d21 Recovering log #3
+2025/11/06-11:51:04.059 d21 Reusing old log /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2025/11/06-12:05:21.826 d21 Level-0 table #5: started
+2025/11/06-12:05:21.870 d21 Level-0 table #5: 3957985 bytes OK
+2025/11/06-12:05:21.874 d21 Delete type=0 #3

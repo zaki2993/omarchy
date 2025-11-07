@@ -1,0 +1,9 @@
+2025/11/06-15:13:19.711 8a6 Reusing MANIFEST /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/06-15:13:19.712 8a6 Recovering log #12
+2025/11/06-15:13:19.726 8a6 Reusing old log /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000012.log 
+2025/11/06-15:13:21.317 8a6 Compacting 1@1 + 1@2 files
+2025/11/06-15:13:21.326 8a6 Generated table #15@1: 359 keys, 63500 bytes
+2025/11/06-15:13:21.326 8a6 Compacted 1@1 + 1@2 files => 63500 bytes
+2025/11/06-15:13:21.328 8a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/06-15:13:21.329 8a6 Delete type=2 #10
+2025/11/06-15:13:21.329 8a6 Delete type=2 #13
